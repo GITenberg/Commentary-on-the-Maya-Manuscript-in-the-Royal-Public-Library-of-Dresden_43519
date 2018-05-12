@@ -1,0 +1,41 @@
+_repo: Commentary-on-the-Maya-Manuscript-in-the-Royal-Public-Library-of-Dresden_43519
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Wesselhoeft, Selma
+    gutenberg_agent_id: '32187'
+    url: http://www.gutenberg.org/2009/agents/32187
+  - agent_name: Parker, A. M. (Alberta M.)
+    alias: Parker, Alberta M.
+    gutenberg_agent_id: '32188'
+    url: http://www.gutenberg.org/2009/agents/32188
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Förstemann, Ernst Wilhelm
+    alias: Forstemann, Ernst Wilhelm
+    birthdate: 1822
+    deathdate: 1906
+    gutenberg_agent_id: '42267'
+    url: http://www.gutenberg.org/2009/agents/42267
+description: ''
+gutenberg_issued: '2013-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayan languages -- Writing'
+- !lcsh 'Mayas -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Maya mythology'
+- !lcsh 'Maya calendar'
+- !lcsh 'Manuscripts, Maya'
+- !lcsh 'Codex Dresdensis Maya'
+title: Commentary on the Maya Manuscript in the Royal Public Library of Dresden
+url: http://www.gutenberg.org/ebooks/43519
